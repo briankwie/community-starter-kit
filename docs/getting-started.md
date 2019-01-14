@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome to the team! If you have any questions please feel free to contact (insert point of contact here).
+
+Congrats on your first contribution! Here's to a great project!
