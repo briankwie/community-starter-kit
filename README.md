@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Welcome is a Probot that will welcome new teammates on a project after their first contribution.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome bot's main function is to greet people who have just joined your group once they create their first issue and open/merge their first pull request
 
 ## Getting started
 
